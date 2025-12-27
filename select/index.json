@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lifestyle",
+  "base_artist": "LISA",
+  "createdAt": "2025-12-27T13:46:19.329867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rockstar Lifestyle (Lil Keed feat. Dae Dae)",
+      "artist": "Lil Keed feat. Lil Yachty, Zaytoven & Dae Dae",
+      "has_synced": false,
+      "path": "select/01_Rockstar_Lifestyle_(Lil_Keed_feat._Dae_Dae)_Lil_Keed_feat._Lil_Yachty,_Zaytoven_&_Dae_Dae.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rockstar Lifestyle (feat. Dae Dae)",
+      "artist": "Lil Keed & ZAYTOVEN",
+      "has_synced": false,
+      "path": "select/02_Rockstar_Lifestyle_(feat._Dae_Dae)_Lil_Keed_&_ZAYTOVEN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1017 Lifestyle",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/03_1017_Lifestyle_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lifestyle (with Bas feat. A$AP Ferg)",
+      "artist": "Dreamville feat. Bas & A$AP Ferg",
+      "has_synced": true,
+      "path": "select/04_Lifestyle_(with_Bas_feat._A$AP_Ferg)_Dreamville_feat._Bas_&_A$AP_Ferg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lifestyle (feat. A$AP Ferg & Bas)",
+      "artist": "Dreamville",
+      "has_synced": false,
+      "path": "select/05_Lifestyle_(feat._A$AP_Ferg_&_Bas)_Dreamville.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lifestyle (Jason Derulo feat. Adam Levine)",
+      "artist": "Jason Derulo feat. Adam Levine & Maroon 5",
+      "has_synced": true,
+      "path": "select/06_Lifestyle_(Jason_Derulo_feat._Adam_Levine)_Jason_Derulo_feat._Adam_Levine_&_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lifestyle",
+      "artist": "Jason Derulo",
+      "has_synced": true,
+      "path": "select/07_Lifestyle_Jason_Derulo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock 'n' Roll Lifestyle",
+      "artist": "Cake",
+      "has_synced": true,
+      "path": "select/08_Rock_'n'_Roll_Lifestyle_Cake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Good Ship Lifestyle",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/09_The_Good_Ship_Lifestyle_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lifestyle",
+      "artist": "Jay Gwuapo",
+      "has_synced": true,
+      "path": "select/10_Lifestyle_Jay_Gwuapo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Supreme Lifestyle",
+      "artist": "Alien Ant Farm",
+      "has_synced": false,
+      "path": "select/11_Supreme_Lifestyle_Alien_Ant_Farm.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Supreme Lifestyle",
+      "artist": "Alien Ant Farm",
+      "has_synced": true,
+      "path": "select/12_Supreme_Lifestyle_Alien_Ant_Farm.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lifestyle",
+      "artist": "Rich Gang feat. Young Thug & Rich Homie Quan",
+      "has_synced": true,
+      "path": "select/13_Lifestyle_Rich_Gang_feat._Young_Thug_&_Rich_Homie_Quan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lifestyle (feat. Young Thug & Rich Homie Quan)",
+      "artist": "Rich Gang",
+      "has_synced": true,
+      "path": "select/14_Lifestyle_(feat._Young_Thug_&_Rich_Homie_Quan)_Rich_Gang.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lifestyle",
+      "artist": "SOB X RBE",
+      "has_synced": true,
+      "path": "select/15_Lifestyle_SOB_X_RBE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lifestyle",
+      "artist": "Joe Satriani",
+      "has_synced": true,
+      "path": "select/16_Lifestyle_Joe_Satriani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lifestyle",
+      "artist": "LISA",
+      "has_synced": false,
+      "path": "select/pl_01_Lifestyle_LISA.txt"
+    }
+  ]
+}
